@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebSocket-010101?logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TCP%2FIP-005571" />
 </p>
 
 ### 📌 Projects
