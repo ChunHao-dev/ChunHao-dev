@@ -32,6 +32,6 @@
 
 ### 📌 Projects
 
-- **[LingoBitz](https://github.com/ChunHao-dev/LingoBitz-Dictation-Pro)** — YouTube dictation practice tool with AI summaries, bilingual subtitles, and PWA support. [🔗 Website](https://www.lingobitz.com)
-- **[Whisper AI Pipeline](https://github.com/ChunHao-dev/whisper-ai-pipeline)** — Automated video transcription service using MLX Whisper, SQS job queue, and Cloudflare R2 storage
-- **[Kiro TDD Workflow](https://github.com/ChunHao-dev/Kiro-TDD-workflow)** — CLI tool for four-stage TDD workflow, supports React/Vue/Next.js. `npx kiro-tdd-workflow init`
+- **[LingoBitz](https://github.com/ChunHao-dev/LingoBitz-Dictation-Pro)** — Practice English listening with YouTube videos — dictation with 3 difficulty levels, sentence-by-sentence playback, and AI-generated summaries. [🔗 Website](https://www.lingobitz.com)
+- **[Whisper AI Pipeline](https://github.com/ChunHao-dev/whisper-ai-pipeline)** — YouTube video transcription & translation service — MLX Whisper on Apple Silicon, SQS job queue, Cloudflare R2 storage, multi-language subtitle generation
+- **[Kiro TDD Workflow](https://github.com/ChunHao-dev/Kiro-TDD-workflow)** — npm CLI tool for AI-assisted TDD — four-stage workflow (Design → Test → Implement → Verify), supports React/Vue/Next.js. `npx kiro-tdd-workflow init`
