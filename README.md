@@ -27,6 +27,6 @@
 
 ### 📌 Projects
 
-- **[LingoBitz](https://github.com/ChunHao-dev/LingoBitz-Dictation-Pro)** — YouTube dictation practice tool with AI summaries, bilingual subtitles, and PWA support. [Live Demo](https://language-learning-transcribe.vercel.app)
+- **[LingoBitz](https://github.com/ChunHao-dev/LingoBitz-Dictation-Pro)** — YouTube dictation practice tool with AI summaries, bilingual subtitles, and PWA support. [🔗 Website](https://www.lingobitz.com)
 - **[Whisper AI Pipeline](https://github.com/ChunHao-dev/whisper-ai-pipeline)** — Automated video transcription service using MLX Whisper, SQS job queue, and Cloudflare R2 storage
 - **[Kiro TDD Workflow](https://github.com/ChunHao-dev/Kiro-TDD-workflow)** — CLI tool for four-stage TDD workflow, supports React/Vue/Next.js. `npx kiro-tdd-workflow init`
