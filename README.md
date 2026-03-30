@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://blog.chczee.dpdns.org/">Blog</a> ·
-  <a href="https://www.threads.net/@chc_fullstack">Threads</a>
+  <a href="https://www.threads.com/@chc_web_dev">Threads</a> ·
+  <a href="https://x.com/ChunHao_Chen">X</a>
 </p>
 
 ---
