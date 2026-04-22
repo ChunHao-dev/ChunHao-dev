@@ -15,6 +15,9 @@
 | Project | PR | Description |
 |---------|-----|-------------|
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (25.6k ⭐) | [#935](https://github.com/vercel-labs/agent-browser/pull/935) ✅ | Network request detail & filtering for request tracking |
+| [openabdev/openab](https://github.com/openabdev/openab) (310 ⭐) | [#202](https://github.com/openabdev/openab/pull/202) ✅ | Issue templates & completeness check GitHub Actions workflow |
+| | [#354](https://github.com/openabdev/openab/pull/354) ✅ | RFC issue template & improved issue-check workflow |
+| | [#519](https://github.com/openabdev/openab/pull/519) ✅ | Fix Discord thread-detection regression in Rust |
 
 ### 🛠 Tech Stack
 
