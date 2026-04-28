@@ -12,12 +12,11 @@
 
 ### 🌍 Open Source Contributions
 
-| Project | PR | Description |
-|---------|-----|-------------|
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (25.6k ⭐) | [#935](https://github.com/vercel-labs/agent-browser/pull/935) ✅ | Network request detail & filtering for request tracking |
-| [openabdev/openab](https://github.com/openabdev/openab) (310 ⭐) | [#202](https://github.com/openabdev/openab/pull/202) ✅ | Issue templates & completeness check GitHub Actions workflow |
-| | [#354](https://github.com/openabdev/openab/pull/354) ✅ | RFC issue template & improved issue-check workflow |
-| | [#519](https://github.com/openabdev/openab/pull/519) ✅ | Fix Discord thread-detection regression in Rust |
+| Project | Description |
+|---------|-------------|
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&label=⭐) | Support Telegram thread IDs in cron add/edit |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat&label=⭐) | Network request detail & filtering for request tracking |
+| [openabdev/openab](https://github.com/openabdev/openab) ![GitHub stars](https://img.shields.io/github/stars/openabdev/openab?style=flat&label=⭐) | Issue templates, RFC template, GitHub Actions workflow & Discord thread-detection fix |
 
 ### 🛠 Tech Stack
 
