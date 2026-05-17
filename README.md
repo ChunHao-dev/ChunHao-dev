@@ -10,13 +10,19 @@
 
 ---
 
+### 👋 About Me
+
+Full-stack developer focused on developer tooling and AI-powered workflows. I contribute to open source projects like [openclaw](https://github.com/openclaw/openclaw), [agent-browser](https://github.com/vercel-labs/agent-browser), and [openab](https://github.com/openabdev/openab) — shipping features, fixing bugs, and writing deep-dive articles about what I learn along the way. In openAB, I lead the auto-triage system and participate in code review with automated E2E testing. I build tools that connect AI agents to real-world interfaces (Telegram bots, browser automation, CLI workflows) and care about making complex systems understandable through documentation.
+
+---
+
 ### 🌍 Open Source Contributions
 
 | Project | Description |
 |---------|-------------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) ![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&label=⭐) | Support Telegram thread IDs in cron add/edit |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ![GitHub stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat&label=⭐) | Network request detail & filtering for request tracking |
-| [openabdev/openab](https://github.com/openabdev/openab) ![GitHub stars](https://img.shields.io/github/stars/openabdev/openab?style=flat&label=⭐) | Issue templates, RFC template, GitHub Actions workflow & Discord thread-detection fix |
+| [openabdev/openab](https://github.com/openabdev/openab) ![GitHub stars](https://img.shields.io/github/stars/openabdev/openab?style=flat&label=⭐) | Config-driven cronjob scheduler (cron parsing, timezone, overlap protection, Helm chart), issue templates, RFC template, GitHub Actions workflow & Discord thread-detection fix |
 
 ### 📝 Technical Writing
 
